@@ -152,9 +152,11 @@ body{
         flex-direction: column-reverse;
         padding: 5%;
     }
-
     .presentacion__contenido{
         width: auto;
+    }
+     .presentacion__enlaces__link{
+        padding: 10%;
     }
 
 }
